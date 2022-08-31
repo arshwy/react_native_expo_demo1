@@ -1,2 +1,2 @@
 # react_native_expo_demo1
-React Native ToDo List demo 1 by expo
+React Native ToDo List demo 1 by expo cli
